@@ -2,7 +2,7 @@
 
 package dummy
 
-var X = "hello, world!"
+var X = "hello, world! (1.15)"
 
 
 
